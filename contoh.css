@@ -59,22 +59,3 @@ Contoh code
   padding: 0.4rem;
   height: 90vh;
 }
-
-.no-js #loader { display: none;  }
-.js #loader { display: block; position: absolute; left: 100px; top: 0; }
-.se-pre-con {
-	position: fixed;
-	left: 0px;
-	top: 0px;
-	width: 100%;
-	height: 100%;
-	z-index: 9999;
-	background: url(https://freefrontend.com/assets/img/css-progress-bars/Loading-Bar.gif) center no-repeat #fff;
-}
-images ul li img {
-	width: 400px;
-	height: 266px;
-}
-.images ul li {
-	display: inline-block;
-}
