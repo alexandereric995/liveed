@@ -71,3 +71,10 @@ Contoh code
 	z-index: 9999;
 	background: url(https://freefrontend.com/assets/img/css-progress-bars/Loading-Bar.gif) center no-repeat #fff;
 }
+images ul li img {
+	width: 400px;
+	height: 266px;
+}
+.images ul li {
+	display: inline-block;
+}
