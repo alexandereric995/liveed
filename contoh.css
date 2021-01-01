@@ -20,7 +20,7 @@ Contoh code
 }
 .btn:hover{
    color:white;
-   background: blue;
+   background: yellow;
 }
 
 
@@ -34,7 +34,7 @@ Contoh code
   height:100vh;
    justify-content: center;
     align-items: center;
-  border: 7px solid #36383f;
+  border: 7px solid #0066ff;
 }
 
 .first {
