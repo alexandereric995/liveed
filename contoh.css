@@ -19,13 +19,13 @@ Contoh code
    height:90vh;
 }
 .btn:hover{
-   color:white;
-   background: yellow;
+   color:red;
+   background: gold;
 }
 
 
 .main-editor {
-  background: rgba(0, 0, 0, 0.91);
+  background: rgba(253, 0, 0, 0.91);
   display: flex;
   width: 100%;
   padding: 1rem;
